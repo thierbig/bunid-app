@@ -17,33 +17,33 @@ This project is implemented using the following technologies:
 
 To get started with the Bunid App, you can follow these instructions:
 
-\`\`\`
+```
 yarn install
-\`\`\`
+```
 
 ### Compiles and hot-reloads for development
 
-\`\`\`
+```
 yarn serve
-\`\`\`
+```
 
 ### Compiles and minifies for production
 
-\`\`\`
+```
 yarn build
-\`\`\`
+```
 
 ### Run your unit tests
 
-\`\`\`
+```
 yarn test:unit
-\`\`\`
+```
 
 ### Lints and fixes files
 
-\`\`\`
+```
 yarn lint
-\`\`\`
+```
 
 ### Customize configuration
 For more details on how to customize the configuration, refer to the [Vue CLI Configuration Reference](https://cli.vuejs.org/config/).
