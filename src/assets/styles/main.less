@@ -1,0 +1,25 @@
+@highlight-color: #3273dc;
+
+.pagination-list {
+  .pagination-link {
+    &.is-current {
+      background-color: @highlight-color;
+      color: white;
+      border-color: @highlight-color;
+    }
+    &:hover {
+      background-color: darken(@highlight-color, 10%);
+    }
+  }
+}
+
+.total-results {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.media-left .image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
