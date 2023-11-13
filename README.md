@@ -4,6 +4,10 @@ The Bunid App is a Vue.js 2 based web application that allows users to search fo
 
 ## Screenshots
 
+![Screenshot 1](./images-example/1.png)
+![Screenshot 2](./images-example/2.png)
+![Screenshot 3](./images-example/3.png)
+
 ## Technologies
 
 The project is implemented with the following:
